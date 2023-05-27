@@ -1,2 +1,2 @@
-# PasswormGenerator
+# PasswordGenerator
 Create Random Password
